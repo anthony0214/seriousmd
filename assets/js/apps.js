@@ -1486,7 +1486,12 @@ var handleToggleNavbarSearch = function() {
         e.preventDefault();
         $('.header').removeClass('header-search-toggled');
     });
+
+    
+    
 };
+
+
 
 
 /* Application Controller

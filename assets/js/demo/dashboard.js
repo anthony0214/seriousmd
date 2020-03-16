@@ -268,7 +268,7 @@ var handleDashboardGritterNotification = function() {
     $(window).on('load', function() {
         setTimeout(function() {
             $.gritter.add({
-                title: 'Welcome back, Admin!',
+                title: 'Welcome back, Administrator!',
                 text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus lacus ut lectus rutrum placerat.',
                 image: '../assets/img/user/user-2.jpg',
                 sticky: true,
